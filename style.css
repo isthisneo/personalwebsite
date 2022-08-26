@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: rgb(32, 31, 31);
+}
+
+.navbar{
+    background-color: rgb(54, 51, 51);
+    padding: 6px;
+    font-size: 18px;
+}
+
+.nick{
+    color: white;
+    margin-left: 3.5px;
+}
+
+
+
+.hakkimdabaslik{
+    padding: 10px;
+    margin-top: 25px;
+    display: flex;
+    color: #eeebeb;
+    justify-content:center;
+}
+
+.hakkimdaicerik{
+    display: flex;
+    justify-content: center;
+    color: white;    
+    text-align: center;
+    width: 300px;
+    margin-left: 529px;
+    margin-bottom: 15px;
+}
+
+.lineabout {
+    display: block;
+    margin-left: 611px;
+    margin-bottom: 25px;
+}
+
+.linea {
+    width: 127px;
+    height: 1px;
+    background-color: white;
+}
+
+.yeteneklerbaslik{
+    padding: 8px;
+    margin-top: 110px;
+    display: flex;
+    color: #eeebeb;
+    justify-content: center;
+}
+
+.yeteneklericerik {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    margin-left: 537px;
+    color: white;
+}
+
+.lineskills {
+    display: block;
+    margin-left: 600px;
+    margin-bottom: 26px;
+}
+
+.lines {
+    width: 152px;
+    height: 1px;
+    background-color: white;
+}
+
+.iletisimbaslik {
+    padding: 8px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: #eeebeb;
+}
+
+.iletisimicerik {
+    display: flex;
+    justify-content: center;
+    width: 75px;
+    margin-left: 50px;
+}
+
+.instagram {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    margin-left: 634px;
+    margin-bottom: 150px;
+}
+
+.linecontact {
+    display: block;
+    margin-left: 630.5px;
+    margin-bottom: 26px;
+}
+
+.linec {
+    width: 89px;
+    height: 1px;
+    background-color: white;
+}
+
+.footer {
+    margin-top: 150px;
+    color: white;
+    background-color: #201e1e;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
